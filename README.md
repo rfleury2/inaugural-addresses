@@ -1,6 +1,6 @@
 # Watson's Musings
 
-Every time a president of the United States is inaugurated, the new (or re-elected) president addresses the crowd gathered and the American people.
+Every time a president of the United States is inaugurated, the new (or re-elected) president addresses the crowd gathered and the American people.  It's an opportunity to communicate a vision to the country and to propel the presidency.  Unique moments in history and different communication styles suggests that the tone of the speech can vary drastically.  I aim to explore the text in each of the inaugural addresses by feeding them to the most intelligent computer in the world, IBM's Watson, in hopes of finding something interesting.
 
 What does IBM's Watson think about what the presidents have said?
 
